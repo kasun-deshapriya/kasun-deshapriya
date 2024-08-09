@@ -27,7 +27,6 @@ Hello, I am **Kaasun Deshapriya**, a junior **full stack software developer** ba
 
 ## 
 <div>
-<p align="center"> <img width="150"   src="https://komarev.com/ghpvc/?username=IT21314742&label=Profile%20views&color=0e75b6&style=flat" alt="IT21314742" /></p>
 
 <br/>
 <br/>
