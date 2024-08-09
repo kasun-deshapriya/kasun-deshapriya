@@ -23,7 +23,7 @@ Hello, I am **Kaasun Deshapriya**, a junior **full stack software developer** ba
 
 ## 
 
-![my](https://github.com/user-attachments/assets/e71d80aa-9e51-4db0-bd43-e5f6e5febd32)
+
 
 ## 
 <div>
