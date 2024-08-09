@@ -4,17 +4,17 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=4078C0&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+profile+%F0%9F%98%87;Happy+to+see+you+here+%F0%9F%98%80;Specializing+in+Full+Stack+Development+%F0%9F%92%BB;Building+Creative+and+Responsive+Web+Apps+%F0%9F%8C%90;Let's+Collaborate+on+Amazing+Projects+%F0%9F%A4%9D;Feel+Free+to+Reach+Out+%F0%9F%A4%97;Have+a+Great+Day+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </p>
 
-Hello, I am **Sahan Sachintha**, a junior **full stack software developer** based in Kurunegala, North Western Province, Srilanka. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions, and I excel in dynamic, collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.
+Hello, I am **Kaasun Deshapriya**, a junior **full stack software developer** based in Kurunegala, North Western Province, Srilanka. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions, and I excel in dynamic, collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
 
-<a href="https://www.linkedin.com/in/sahan-sachintha-56a49b284/" target="_blank">
+<a href="www.linkedin.com/in/kasun-deshapriya-" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 &nbsp;
-<a href="https://github.com/sachinthadev" target="_blank">
+<a href="https://github.com/kasun-deshapriya" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 &nbsp;
-<a href="mailto:sahansachintha.dev@gmail.com" target="_blank">
+<a href="mailto:kasund564@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
  
@@ -32,11 +32,11 @@ Hello, I am **Sahan Sachintha**, a junior **full stack software developer** base
 <br/>
 <br/>
 
-- 👋 Hi, I’m @sachinthadev
-- 👀 I’m interested in Programming languages and Machine learning...
+- 👋 Hi, I’m @kasun deshapriya
+- 👀 I’m interested in Programming languages...
 - 🌱 I’m currently learning Web based application , Mobile apps , API's manipulate and Full stack development...
 - 💞️ I’m looking to collaborate on Hard working , Inovations and Friendly ...
-- 📫 How to reach me <a>sahansachintha.dev@gmail.com<a/>
+- 📫 How to reach me <a>kasund564@gmail.com<a/>
 
 <br/>
 </div>
@@ -114,7 +114,3 @@ Hello, I am **Sahan Sachintha**, a junior **full stack software developer** base
 
 
 
-<!---
-sachinthadev/sachinthadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
