@@ -85,9 +85,7 @@ Hello, I am **Kaasun Deshapriya**, a junior **full stack software developer** ba
 &nbsp;
 <kbd><a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" /></a></kbd>  
 &nbsp;
-<kbd><a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="40" /></a></kbd>  
+<kbd><a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="40" /></a></kbd>   
 &nbsp;
 <kbd><a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a></kbd>  
 &nbsp;
@@ -95,15 +93,13 @@ Hello, I am **Kaasun Deshapriya**, a junior **full stack software developer** ba
 &nbsp;
 <kbd><a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a></kbd>
 &nbsp;
-<kbd><a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a></kbd>
-&nbsp;
 <kbd><a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a></kbd>
 </div>  
 <br>
 <br>
 <div>
   
-  ![00-1](https://github.com/user-attachments/assets/4108ecfe-23ef-4b4f-a619-e6227fe3f02c)
+ 
   
 </div>
 
