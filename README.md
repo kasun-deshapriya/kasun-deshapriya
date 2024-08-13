@@ -41,7 +41,7 @@ Hello, I am **Kaasun Deshapriya**, a junior **full stack software developer** ba
 </div>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinthadev&show_icons=true&locale=en&layout=compact" alt="Sahan Sachintha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinthadev&show_icons=true&locale=en&layout=compact" alt="kasun deshapriya" /></p>
 <br/>
 <div align="center">
   <kbd><a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="" alt="" height="40" /></a></kbd>
