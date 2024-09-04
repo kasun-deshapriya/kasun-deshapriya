@@ -6,7 +6,7 @@
 
 Hello, I am **Kaasun Deshapriya**, a junior **full stack software developer** based in Kurunegala, North Western Province, Srilanka. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions, and I excel in dynamic, collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg)
 
 <a href="www.linkedin.com/in/kasun-deshapriya-" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -20,8 +20,8 @@ Hello, I am **Kaasun Deshapriya**, a junior **full stack software developer** ba
  
 
 </div>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-## 
 
 
 
